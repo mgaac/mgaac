@@ -1,4 +1,13 @@
-*In pursuit of a maximally predictive world model. Current rabbit holes include geometric deep learning, statecraft, and ethnography.*
+*In pursuit of a maximally predictive world model. Current rabbit holes include algorithmic reasoning, invariance theory as applied to DL, and political philosophy.*
 
-May 25
-- Currently building nar_index. An attempt to gain proficiency in the more practical aspects of deep learning. In a sense, reconciling too much paper reading with something more visceral. For some time, I have reflected on how GDL as a framework could be used for program synthesis tasks—more on this later. Nar_index, however, is the first step towards that.
+June 25
+- Working as an ML-inclined Software Engineer at SPRC, building MCP servers, orchestrating agents, and hopefully making the organization more LLM-legible. More precisely:
+  - Building an MCP server enabling communication between internal container management services (as in container ships) and distinct LLM-based applications.
+  - Developing a Spring AI-based anomaly detection platform. Deploying multiple agents for inspection, debugging, and verification tasks for all company records.
+- Continuing to build [narindex](https://github.com/mgaac/narindex/tree/main): an attempt to gain proficiency in the practical aspects of deep learning, in a sense reconciling extensive paper reading with more visceral implementation experience.
+  - Completing the implementation of [Neural Execution of Graph Algorithms](https://arxiv.org/abs/1910.10593).
+  - Beginning to work on a modified implementation of [G-Counterfacutal Networks](https://arxiv.org/abs/2104.10105).
+- Self-studying analysis. Currently, I struggle with the more theoretical results in DL, especially regarding universal approximation theorems and reasoning through concepts like the Neural Tangent Kernel.
+  - Working through Understanding Analysis by Stephen Abbott.
+  - Certain chapters from The Road to Reality by Penrose have proven quite useful in developing clear intuitions, though finishing the book entirely might be better delegated to my graduate-school self.
+- Enrolled in STAT-350 and MA-261 at Purdue. Positioning myself so that by fall I can hopefully begin working on research.
