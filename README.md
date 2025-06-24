@@ -1,6 +1,6 @@
 *In pursuit of a maximally predictive world model. Current rabbit holes include algorithmic reasoning, invariance theory as applied to DL, and political philosophy.*
 
-June 25
+Summer 25
 - Working as an ML-inclined Software Engineer at SPRC, building MCP servers, orchestrating agents, and hopefully making the organization more LLM-legible. More precisely:
   - Building an MCP server enabling communication between internal container management services (as in container ships) and distinct LLM-based applications.
   - Developing a Spring AI-based anomaly detection platform. Deploying multiple agents for inspection, debugging, and verification tasks for all company records.
