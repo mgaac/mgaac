@@ -1,4 +1,4 @@
-*In pursuit of a maximally predictive world model. Current rabbit holes include algorithmic reasoning, invariance theory as applied to DL, and geometric deep learing in all its flavours.
+In pursuit of a maximally predictive world model. Current rabbit holes include algorithmic reasoning, invariance theory as applied to DL, and geometric deep learing in all its flavours.
 
 Summer 25
 - Working as an ML-inclined Software Engineer at SPRC, building MCP servers, orchestrating agents, and hopefully making the organization more LLM-legible. More precisely:
