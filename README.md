@@ -1,4 +1,5 @@
 *In pursuit of a maximally predictive world model. Current rabbit holes include mechanistic interpretability, geometric deep learning, and political philosophy.*
+
 ---
 Lately, much of my work has revolved around understanding the internal structure learned by neural networks and whether that structure can be made useful.
 
