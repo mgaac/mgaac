@@ -8,3 +8,5 @@ In the [Jane Street Model Archaeology challenge](https://github.com/mgaac/model-
 In parallel, I've been investigating whether the latent geometry learned by GNN algorithm executors can support [knowledge transfer across models](https://github.com/mgaac/sparse-feature-transfer). A project that grew out of earlier work on [structural termination](https://github.com/mgaac/structural-termination), where I used supervised latent-state convergence to predict when an algorithm had finished without a separate learned halting head.
 
 Outside that, I'm pursuing a double major in Mathematics and Computer Science at Purdue University, which has supplied much of the algebra, analysis, algorithms, and systems machinery behind the work above.
+
+Here is my [resume](https://docs.google.com/document/d/1iyoEih4FtdVMgIyuNcDSy2FQPhw5zG0oGtMNNmBsps8/edit?usp=sharing).
